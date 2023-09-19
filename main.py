@@ -1,6 +1,10 @@
-from xorazm import *
+from nukus import *
+from termiz import *
+from karshi import *
+from tashkentRegion import *
+from tashkent import *
 
-mylist = urganchDistrict
+mylist = olmaliqOhangaron
 
 for i, val in enumerate(mylist):
     temp = val[0]
